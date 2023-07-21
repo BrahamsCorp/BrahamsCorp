@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brahams</h1>
 <h3 align="center">A passionate FullStack developer from Perú</h3>
+<img src="https://lh3.googleusercontent.com/p/AF1QipP3WtVf5ZNX3ZPMQuq0jPnhNmjsQXUviBxcAQP3=w1080-h608-p-no-v0" align="top" alt="coding"   width="1000"/>
 
- <img align="right" alt="coding" width="400" scr="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="coding" width="580"/>
+
+ <img scr="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahamscorp&label=Profile%20views&color=0e75b6&style=flat" alt="brahamscorp" /> </p>
 
